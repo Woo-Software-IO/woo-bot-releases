@@ -1,1 +1,1 @@
-# Релизы Woo Bot
+# Релизы Woo Bot на MacOs
